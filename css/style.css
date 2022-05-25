@@ -414,7 +414,7 @@ img {
 
 .registration__input {
   max-width: 400px;
-  height: 69px;
+  max-height: 69px;
   background-color: #ffffff;
   border: 1px solid #d3d7d9;
   padding: 28px;
